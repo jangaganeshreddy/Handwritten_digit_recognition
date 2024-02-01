@@ -1,5 +1,7 @@
 # Handwritten Digit Recognition
 
+https://github.com/jangaganeshreddy/Handwritten_digit_recognition/assets/79239843/a3801c58-a6a2-45c7-b1fc-afcb2f97d6f0
+
 ## Project Overview 
 This project involves the development of a Convolutional Neural Network (CNN) to recognize handwritten digits. 
 The model was trained on the MNIST dataset, which contains 60,000 training images and 10,000 testing images of handwritten digits (0-9).
